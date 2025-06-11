@@ -40,4 +40,4 @@ https://www.linkedin.com/in/heet2002/
 
 ## License
 
-This project is provided for educational and portfolio demonstration purposes.
+This project was done for educational and portfolio demonstration purposes.
